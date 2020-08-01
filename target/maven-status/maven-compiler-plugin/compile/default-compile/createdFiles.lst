@@ -1,0 +1,7 @@
+stepDefinitions/Steps.class
+pageObjects/LoginPage.class
+testRunner/TestRun.class
+pageObjects/AddCustomerPage.class
+stepDefinitions/BaseClass.class
+utilities/WaitHelper.class
+pageObjects/SearchCustomerPage.class

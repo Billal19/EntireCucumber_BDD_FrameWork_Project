@@ -1,0 +1,258 @@
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Login passed ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** click on logOut link ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** click on logOut link ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Login passed ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Adding new customer ****************************
+[main] INFO  nopCommerce  - ****************** Providing customer details ****************************
+[main] INFO  nopCommerce  - ****************** Saving customer Data ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Searching a customer by using email ID ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Searching customer by name ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** click on logOut link ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** click on logOut link ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Login passed ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Adding new customer ****************************
+[main] INFO  nopCommerce  - ****************** Providing customer details ****************************
+[main] INFO  nopCommerce  - ****************** Saving customer Data ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Searching a customer by using email ID ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Searching customer by name ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Adding new customer ****************************
+[main] INFO  nopCommerce  - ****************** Providing customer details ****************************
+[main] INFO  nopCommerce  - ****************** Saving customer Data ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Searching a customer by using email ID ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Searching customer by name ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Searching a customer by using email ID ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Searching customer by name ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** click on logOut link ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** click on logOut link ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Login passed ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Searching a customer by using email ID ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Searching customer by name ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** click on logOut link ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Adding new customer ****************************
+[main] INFO  nopCommerce  - ****************** Providing customer details ****************************
+[main] INFO  nopCommerce  - ****************** Saving customer Data ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Adding new customer ****************************
+[main] INFO  nopCommerce  - ****************** Providing customer details ****************************
+[main] INFO  nopCommerce  - ****************** Saving customer Data ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** click on logOut link ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** click on logOut link ****************************
+[main] INFO  nopCommerce  - ****************** login failed ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Login passed ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Adding new customer ****************************
+[main] INFO  nopCommerce  - ****************** Providing customer details ****************************
+[main] INFO  nopCommerce  - ****************** Saving customer Data ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Searching a customer by using email ID ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
+[main] INFO  nopCommerce  - ****************** Lunching Browser ****************************
+[main] INFO  nopCommerce  - ****************** opening Url ****************************
+[main] INFO  nopCommerce  - ****************** Providing login details ****************************
+[main] INFO  nopCommerce  - ****************** starting login process ****************************
+[main] INFO  nopCommerce  - ****************** Searching customer by name ****************************
+[main] INFO  nopCommerce  - ****************** Closing browser ****************************
